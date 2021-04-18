@@ -1,0 +1,21 @@
+{
+    "config_name": "xlmtest3",
+    "logging_level": 0,
+    "ddown_factor": 1.32,
+    "qty_pct": 0.229,
+    "leverage": 3,
+    "n_entry_orders": 8,
+    "n_close_orders": 16,
+    "grid_spacing": 0.000815,
+    "grid_coefficient": 83.22,
+    "min_markup": 0.004936,
+    "markup_range": 0.0625,
+    "do_long": true,
+    "do_shrt": true,
+    "ema_span": 52572.10112277786,
+    "ema_spread": 0.0051,
+    "stop_loss_liq_diff": 0.2,
+    "stop_loss_pos_pct": 0.01,
+    "vol_factor": 10.778236906239476,
+    "symbol": "XLMUSDT"
+}

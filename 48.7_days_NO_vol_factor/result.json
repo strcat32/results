@@ -1,0 +1,121 @@
+{
+    "session_name": "xlmtest2",
+    "exchange": "binance",
+    "user": "binance",
+    "symbol": "XLMUSDT",
+    "latency_simulation_ms": 100,
+    "starting_balance": 1200,
+    "do_long": true,
+    "do_shrt": true,
+    "iters": 1,
+    "num_cpus": 6,
+    "options": {
+        "c1": 1.4962,
+        "c2": 1.4962,
+        "w": 0.7298
+    },
+    "n_particles": 24,
+    "minimum_liquidation_distance": 0.25,
+    "minimum_daily_entries": 10,
+    "start_date": "2021-03-01T00:00",
+    "end_date": "2021-04-18T18:15",
+    "ranges": {
+        "leverage": [
+            3,
+            3
+        ],
+        "n_close_orders": [
+            16,
+            16
+        ],
+        "qty_pct": [
+            0.229,
+            0.229
+        ],
+        "ddown_factor": [
+            1.32,
+            1.32
+        ],
+        "grid_coefficient": [
+            83.22,
+            83.22
+        ],
+        "grid_spacing": [
+            0.000815,
+            0.000815
+        ],
+        "markup_range": [
+            0.0625,
+            0.0625
+        ],
+        "min_markup": [
+            0.004936,
+            0.004936
+        ],
+        "ema_span": [
+            52572.1,
+            52572.11
+        ],
+        "ema_spread": [
+            0.0051,
+            0.0051
+        ],
+        "stop_loss_liq_diff": [
+            0.2,
+            0.2
+        ],
+        "stop_loss_pos_pct": [
+            0.01,
+            0.01
+        ],
+        "vol_factor": [
+            0.0,
+            0
+        ]
+    },
+    "maker_fee": 0.00018,
+    "taker_fee": 0.00036,
+    "inverse": false,
+    "max_leverage": 75,
+    "min_qty": 1.0,
+    "min_cost": 5.0,
+    "qty_step": 1.0,
+    "price_step": 1e-05,
+    "contract_multiplier": 1.0,
+    "session_dirpath": "plots\\binance\\XLMUSDT\\48.7_days_2021-04-18T183043\\",
+    "n_days": 48.67432927083333,
+    "leverage": 3,
+    "n_close_orders": 16,
+    "qty_pct": 0.229,
+    "ddown_factor": 1.32,
+    "grid_coefficient": 83.22,
+    "grid_spacing": 0.000815,
+    "markup_range": 0.0625,
+    "min_markup": 0.004936,
+    "ema_span": 52572.10440372425,
+    "ema_spread": 0.0051,
+    "stop_loss_liq_diff": 0.2,
+    "stop_loss_pos_pct": 0.01,
+    "vol_factor": 0.0,
+    "net_pnl_plus_fees": 1794.7913489256885,
+    "profit_sum": 8586.50062871755,
+    "loss_sum": -6163.441772969877,
+    "fee_sum": -628.2675068219968,
+    "final_equity": 1669.3054231780216,
+    "gain": 1.3910878526483512,
+    "max_drawdown": 0.7940343973867915,
+    "average_daily_gain": 1.006804569292531,
+    "closest_liq": 0.2633640102540831,
+    "n_fills": 6721,
+    "n_entries": 5758,
+    "n_closes": 963,
+    "n_reentries": 4991,
+    "n_initial_entries": 767,
+    "n_normal_closes": 951,
+    "n_stop_loss_closes": 12,
+    "n_stop_loss_entries": 0,
+    "biggest_psize": 37734.0,
+    "max_n_hours_stuck": 51.5327375,
+    "seconds_elapsed": 61.46254539489746,
+    "key": "035146b6a8104ee1499fb17dd5f114e7c9f4964d3610a5841cde23008d841eb2"
+}

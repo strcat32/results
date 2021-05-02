@@ -1,0 +1,22 @@
+{
+    "config_name": 0.0,
+    "logging_level": 0.0,
+    "ddown_factor": 0.31469465797125507,
+    "qty_pct": 0.35373957495806546,
+    "leverage": 2,
+    "n_entry_orders": 8,
+    "n_close_orders": 9,
+    "grid_spacing": 0.01557089835433666,
+    "pos_margin_grid_coeff": 7444.827209978857,
+    "volatility_grid_coeff": -4467.267648923304,
+    "volatility_qty_coeff": -3406.398737816991,
+    "min_markup": 0.019911266600393218,
+    "markup_range": 0.011104816068784442,
+    "do_long": true,
+    "do_shrt": true,
+    "ema_span": 193061.19173238712,
+    "ema_spread": 0.07182401109537989,
+    "stop_loss_liq_diff": 0.6422885479522057,
+    "stop_loss_pos_pct": 0.014303794612545157,
+    "symbol": "XLMUSDT"
+}

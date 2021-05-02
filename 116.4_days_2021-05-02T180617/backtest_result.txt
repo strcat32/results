@@ -1,0 +1,20 @@
+net pnl plus fees 30228.628411
+profit sum 164751.354933
+loss sum -130511.041889
+fee sum -4011.684633
+gain percentage 1870.42%
+n_days 116.4392428125
+average_daily_gain percentage 2.59%
+n fills 58328
+n entries 46699
+n closes 11629
+n reentries 45433
+n initial entries 0
+n normal closes 1570
+n stop loss closes 10059
+n stop loss entries 1266
+biggest_psize 179408.0
+closest liq percentage 42.4156%
+max n hours stuck 48.07
+starting balance 1500
+long: True, short: True
